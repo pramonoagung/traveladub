@@ -21,7 +21,7 @@ Route::get('/admin/list-destinasi', 'HomeController@destinasi');
 Route::get('/admin/list-rekomendasi', 'HomeController@rekomendasi');
 Route::get('/admin/list-user', 'HomeController@daftarUser');
 Route::get('/admin/tambah-destinasi', 'HomeController@addDestinasi');
-Route::post('/admin/tambah-destinasi', 'HomeController@createDestinasi');
+Route::post('/admin/tambah', 'HomeController@createDestinasi');
 
 Route::get('/', function () {
     return view('index');

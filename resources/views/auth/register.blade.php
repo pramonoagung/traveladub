@@ -126,7 +126,7 @@
                                                 <input type="checkbox" name="termsAndConds" required> Saya menerima <a
                                                         href="#">Syarat dan Ketentuan</a> Traveladub.
                                             </div>
-                                            <button type="submit" class="btn_regist"><strong>Daftarkan Saya!</strong>
+                                            <button type="submit" class="btn_regist"><strong>Daftarkan Saya</strong>
                                             </button>
                                         </form>
                                     </div>

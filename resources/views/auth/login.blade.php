@@ -102,7 +102,7 @@
                                     </span>
                                                 @endif
                                             </div>
-                                            <button type="submit" class="btn"><strong>Masuk!</strong></button>
+                                            <button type="submit" class="btn"><strong>Masuk</strong></button>
                                         </form>
                                         <a href="/password/reset" class="text small" style="color: black"><i
                                                     class="fa fa-lock m-r-5"></i> Lupa password?</a>
