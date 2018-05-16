@@ -40,7 +40,8 @@ class HomeController extends Controller
 
     function destinasi()
     {
-        return view('admin.listDestinasi');
+        $destinasis = Post::all();
+        return view('admin.listDestinasi', compact('destinasis'));
     }
 
     function rekomendasi()
@@ -72,7 +73,14 @@ class HomeController extends Controller
         $post->transportasi = $request->transportasi;
         $post->save();
 
-        return redirect()->back()->with('status','Berhasil menambah destinasi');
+        return redirect()->back()->with('status', 'Berhasil menambah destinasi');
+    }
+
+    function deleteDestinasi($id)
+    {
+        $data = Post::findOrFail($id);
+        $data->delete();
+        return redirect()->back()->with('status', 'Berhasil menghapus destinasi');
     }
 
 }

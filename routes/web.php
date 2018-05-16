@@ -23,6 +23,9 @@ Route::get('/admin/list-user', 'HomeController@daftarUser');
 Route::get('/admin/tambah-destinasi', 'HomeController@addDestinasi');
 Route::post('/admin/tambah', 'HomeController@createDestinasi');
 
+Route::get('/destinasi/{id}/delete', 'HomeController@deleteDestinasi');
+
+
 Route::get('/', function () {
     return view('index');
 });
