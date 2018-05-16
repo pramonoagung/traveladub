@@ -1,0 +1,43 @@
+ table {
+         border-collapse: collapse;
+         border-spacing: 0;            
+         text-align: left;
+         display: flex;
+         flex-flow: column;
+         height: 400px;
+         width: 100%;
+         }
+         thead {
+         border: 1px solid grey;
+         flex: 0 0 auto;
+         width: 100%;
+         background-color:#30a5ff;
+         }        
+         tbody {     
+         width: 100%;
+         flex: 1 1 auto;
+         display: block;
+         overflow-y: scroll;
+         background-color:#ecf0f1;
+         color:black
+         }
+         table tbody tr {
+         width: 100%;
+         }
+         table thead,
+         table tbody tr {
+         display: table;
+         table-layout: fixed;
+         }
+         table {
+         border: 1px solid lightgrey;
+         }
+         table td, table th {
+         border: 1px solid lightgrey;
+         }
+         table th {
+         border: 1px solid grey;
+         }
+         td{
+         word-wrap:break-word
+         }   
