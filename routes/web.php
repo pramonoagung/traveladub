@@ -26,6 +26,9 @@ Route::post('/admin/tambah-destinasi', 'HomeController@createDestinasi');
 Route::get('/', function () {
     return view('index');
 });
+Route::get('/faq', function () {
+    return view('FAQ');
+});
 Route::get('/cari', function () {
     return view('search');
 });
