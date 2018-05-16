@@ -128,6 +128,15 @@ return [
         'attribute-name' => [
             'rule-name' => 'custom-message',
         ],
+        'password' => [
+            'min' => 'Password minimal 5 karakter',
+            'confirmed' => 'Password tidak cocok',
+            'required' => 'Kolom wajib diisi',
+        ],
+        'email' => [
+            'unique' => 'Email sudah terdaftar',
+            'required' => 'Kolom wajib diisi',
+        ],
     ],
 
     /*

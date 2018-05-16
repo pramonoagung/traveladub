@@ -24,6 +24,7 @@ Route::get('/admin/tambah-destinasi', 'HomeController@addDestinasi');
 Route::post('/admin/tambah', 'HomeController@createDestinasi');
 
 Route::get('/destinasi/{id}/delete', 'HomeController@deleteDestinasi');
+Route::get('/cari', 'MasterController@cari');
 
 
 Route::get('/', function () {
@@ -32,7 +33,7 @@ Route::get('/', function () {
 Route::get('/faq', function () {
     return view('FAQ');
 });
-Route::get('/cari', function () {
+Route::get('/tes', function () {
     return view('search');
 });
 Route::get('/destinasi', function () {
