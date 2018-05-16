@@ -6,7 +6,7 @@
         <div class="row">
             <ol class="breadcrumb">
                 <li>
-                    <a href="home.html"><em class="fa fa-home"></em></a>
+                    <a href="/"><em class="fa fa-home"></em></a>
                 </li>
                 <li class="active">
                     Tambah Destinasi
@@ -20,6 +20,11 @@
         </div>
         <div class="row">
             <div class="col-md-12">
+                @if ($message = Session::get('status'))
+                    <div class="alert alert-success">
+                        <p>{{ $message }}</p>
+                    </div>
+                @endif
                 <div class="panel panel-default">
                     <form style="padding-top: 20px" id="form" action="/admin/tambah" class="form-horizontal"
                           method="post">

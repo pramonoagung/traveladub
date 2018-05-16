@@ -71,6 +71,8 @@ class HomeController extends Controller
         $post->telp = $request->telp;
         $post->transportasi = $request->transportasi;
         $post->save();
+
+        return redirect()->back()->with('status','Berhasil menambah destinasi');
     }
 
 }
