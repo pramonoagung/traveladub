@@ -21,7 +21,7 @@
         <div class="row">
             <div class="col-md-12">
                 <div class="panel panel-default">
-                    <form style="padding-top: 20px" id="form" action="/admin/tambah-destinasi" class="form-horizontal"
+                    <form style="padding-top: 20px" id="form" action="/admin/tambah" class="form-horizontal"
                           method="post">
                         {{csrf_field()}}
                         <input style="margin-bottom: 10px" type="text" placeholder="Nama Destinasi" class="textbox"
