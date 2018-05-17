@@ -18,7 +18,8 @@
 
                         <!-- Logo -->
                         <a class="navbar-brand" href="/">
-                            <b><span style="color: #d63031">Trave</span><span style="color:#ff7675">Ladub</span></b>
+                            {{--<b><span style="color: #d63031">Trave</span><span style="color:#ff7675">Ladub</span></b>--}}
+                            <img src="ntl.png" alt="" >
                         </a>
                     </div>
                     <!-- Navbar Toggle End -->

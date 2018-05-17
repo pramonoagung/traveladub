@@ -33,6 +33,11 @@ class HomeController extends Controller
         return view('admin.dashboard');
     }
 
+    function profile()
+    {
+        return view('profile');
+    }
+
     function artikel()
     {
         return view('admin.listArtikel');

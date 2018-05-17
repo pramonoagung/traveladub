@@ -24,6 +24,9 @@ Route::get('/admin/tambah-destinasi', 'HomeController@addDestinasi');
 Route::post('/admin/tambah', 'HomeController@createDestinasi');
 
 Route::get('/destinasi/{id}/delete', 'HomeController@deleteDestinasi');
+Route::get('/profile', 'HomeController@profile');
+Route::get('/profile/{id}/edit', 'MasterController@editProfile');
+Route::get('/profile/{id}/edit/save', 'MasterController@updateProfile');
 Route::get('/cari', 'MasterController@cari');
 
 
