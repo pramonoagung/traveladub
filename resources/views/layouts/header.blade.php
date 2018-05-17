@@ -19,7 +19,7 @@
                         <!-- Logo -->
                         <a class="navbar-brand" href="/">
                             {{--<b><span style="color: #d63031">Trave</span><span style="color:#ff7675">Ladub</span></b>--}}
-                            <img src="ntl.png" alt="" >
+                            <img src="ntl.png" alt="">
                         </a>
                     </div>
                     <!-- Navbar Toggle End -->
@@ -52,11 +52,14 @@
                     </div>
                     @else
                         <div class="gl-extra-btns-wrapper" style="background-color: red">
+                            <a href="/profile" class="gl-add-post-btn">{{Auth::user()->name}}</a>
+
                             <a class="gl-add-post-btn" href="{{ route('logout') }}"
                                onclick="event.preventDefault();
                                                      document.getElementById('logout-form').submit();">
-                                {{ Auth::user()->name }}
+                                {{ 'Logout' }}
                             </a>
+
                         </div>
 
                         <form id="logout-form" action="{{ route('logout') }}" method="POST"

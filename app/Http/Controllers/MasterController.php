@@ -3,6 +3,7 @@
 namespace App\Http\Controllers;
 
 use App\Post;
+use App\Provinsi;
 use App\User;
 use Illuminate\Http\Request;
 
@@ -10,8 +11,16 @@ class MasterController extends Controller
 {
     function cari(Request $request)
     {
+        $provs = Provinsi::all();
         $datas = Post::where('judul', 'like', '%' . $request->nama . '%')->get();
-        return view('search', compact('datas'));
+        return view('search', compact('datas', 'provs'));
+    }
+
+    function filter(Request $request)
+    {
+        $provs = Provinsi::all();
+        $datas = Post::where('judul', 'like', '%' . $request->nama . '%')->where('provinsi', $request->provinsi)->get();
+        return view('search', compact('datas', 'provs'));
     }
 
     function editProfile($id)

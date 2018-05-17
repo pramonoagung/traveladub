@@ -2,7 +2,7 @@
     <footer>
         <div class="container">
             <div class="row">
-                <div class="col-lg-8 col-xs-9 col-sm-5 ">Copyrights 2018 traveladub</div>
+                <div class="col-lg-8 col-xs-9 col-sm-5 ">Copyright &copy; 2018 TraveLadub. All rights reserved</div>
                 <div class="col-lg-3 col-xs-12 col-sm-5 sociconcent">
                     <ul class="socialicons">
                         <li><a href="#"><i class="fa fa-facebook-square"></i></a></li>

@@ -6,17 +6,21 @@
         <div class="container">
             <div class="gl-elements-content-wrapper">
                 <div class="gl-directory-searchbar gl-bz-directory-searchbar" style="margin: 0px 0px">
-                    <form action="#" id="gl-bz-directory-form">
+                    <form action="/filter" method="get" id="gl-bz-directory-form">
                         <fieldset>
-                            <input type="text" name="search" id="gl-search-location"
+                            <input type="text" name="nama" id="gl-search-location"
                                    class="gl-directory-input" value="{{request('nama')}}"
                                    placeholder="Cari tempat wisata..." style="width: 50%">
                             <div class="gl-business-category gl-category-dropdown" style="width: 50%">
-                                <select id="provinsi" class="gl-category-dropdown-selection">
+                                <select name="provinsi" class="gl-category-dropdown-selection">
+                                    <option disabled selected>Pilih Provinsi</option>
+                                    @foreach($provs as $prov)
+                                        <option value="{{$prov->nama}}">{{$prov->nama}}</option>
+                                    @endforeach
                                 </select>
                             </div>
                         </fieldset>
-                        <button type="submit" class="gl-icon-btn"><i class="fa fa-search"></i> Search</button>
+                        <button type="submit" class="gl-icon-btn"><i class="fa fa-search"></i> Filter</button>
                     </form>
                 </div>
             </div>

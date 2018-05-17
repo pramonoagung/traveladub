@@ -5,7 +5,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-8 breadcrumbf">
-                    <a href="#">Borderlands 2</a> <span class="diviver">&gt;</span> <a href="#">General Discussion</a> <span class="diviver">&gt;</span> <a href="#">Topic Details</a>
+                    <a href="#">Forum</a> <span class="diviver">&gt;</span> <a href="#">Wisata Alam</a> <span class="diviver">&gt;</span> <a href="#">Indahnya Pantai 3 Warna</a>
                 </div>
             </div>
         </div>
@@ -29,8 +29,8 @@
                                 </div>
                             </div>
                             <div class="posttext pull-left">
-                                <h2>10 Kids Unaware of Their Halloween Costume</h2>
-                                <p>Today, we're looking at three particularly interesting stories. Pinterest added a new location-based feature on Wednesday that uses Place Pins as a way to map out vacations and favorite areas. Southwest Airlines is providing Wi-Fi access from gate to gate for $8 per day through an onboard hotspot. And in an effort to ramp up its user base, Google Wallet is offering a debit card that can take out cash from.</p>
+                                <h2>Indahnya Pantai 3 Warna</h2>
+                                <p>Minggu lalu saya dan keluarga pergi ke pantai 3 warna, disana pemandangannya sangat bagus, ada 3 warna dipantainya. Pasirnya warna putih seputih salju. Disana saya bersama keluarga pergi dari Malang pukul 9 Pagi dan sampai disana sekitar puku 12 Siang. Cuaca saat itu terik panas. Biaya masuk ke pantai 3 Warna saat itu masih 100 ribu, itu termasuk guide.</p>
                             </div>
                             <div class="clearfix"></div>
                         </div>
@@ -45,7 +45,7 @@
                                 <a href="#"><i class="fa fa-reply"></i></a>
                             </div>
 
-                            <div class="posted pull-left"><i class="fa fa-clock-o"></i> Posted on : 20 Nov @ 9:30am</div>
+                            <div class="posted pull-left"><i class="fa fa-clock-o"></i> Diposting : 20 Nov @ 9:30am</div>
 
                             <div class="next pull-right">
                                 <a href="#"><i class="fa fa-share"></i></a>
@@ -72,7 +72,7 @@
                                 </div>
                             </div>
                             <div class="posttext pull-left">
-                                <p>Typography helps you engage your audience and establish a distinct, unique personality on your website. Knowing how to use fonts to build character in your design is a powerful skill, and exploring the history and use of typefaces, as well as typogra...</p>
+                                <p>Wah enak juga ya mas, tour guidenya apakah baik orangnya? apakah ada biaya tambahan?</p>
                             </div>
                             <div class="clearfix"></div>
                         </div>
@@ -87,7 +87,7 @@
                                 <a href="#"><i class="fa fa-reply"></i></a>
                             </div>
 
-                            <div class="posted pull-left"><i class="fa fa-clock-o"></i> Posted on : 20 Nov @ 9:45am</div>
+                            <div class="posted pull-left"><i class="fa fa-clock-o"></i> Diposting : 20 Nov @ 9:45am</div>
 
                             <div class="next pull-right">
                                 <a href="#"><i class="fa fa-share"></i></a>
@@ -117,10 +117,10 @@
                             <div class="posttext pull-left">
 
                                 <blockquote>
-                                    <span class="original">Original Posted by - theguy_21:</span>
-                                    Did you see that Dove ad pop up in your Facebook feed this year? How about the Geico camel one?
+                                    <span class="original">Diposting oleh - Agung Pramono:</span>
+                                   Wah enak juga ya mas, tour guidenya apakah baik orangnya? apakah ada biaya tambahan?
                                 </blockquote>
-                                <p>Toronto Mayor Rob Ford does not have a bigger fan than "Anchorman's" Ron Burgundy. In fact, Burgundy wants Ford to be re-elected so much, that he agreed to sing the campaign song Brien. The tune in question ...</p>
+                                <p>Enak banget, baik kokk malah suka bercanda. Engga ada sih, paling kalo mau kasih uang rokok ke tour guidenya hehe.</p>
                             </div>
                             <div class="clearfix"></div>
                         </div>
@@ -203,130 +203,18 @@
                         <div class="divline"></div>
                         <div class="blocktxt">
                             <ul class="cats">
-                                <li><a href="#">Trading for Money <span class="badge pull-right">20</span></a></li>
-                                <li><a href="#">Vault Keys Giveway <span class="badge pull-right">10</span></a></li>
-                                <li><a href="#">Misc Guns Locations <span class="badge pull-right">50</span></a></li>
-                                <li><a href="#">Looking for Players <span class="badge pull-right">36</span></a></li>
-                                <li><a href="#">Stupid Bugs &amp; Solves <span class="badge pull-right">41</span></a></li>
-                                <li><a href="#">Video &amp; Audio Drivers <span class="badge pull-right">11</span></a></li>
-                                <li><a href="#">2K Official Forums <span class="badge pull-right">5</span></a></li>
+                                <li><a href="#">Wisata Alam <span class="badge pull-right">20</span></a></li>
+                                <li><a href="#">Taman Rekreasi <span class="badge pull-right">10</span></a></li>
                             </ul>
                         </div>
                     </div>
-
-                    <!-- -->
-                    <div class="sidebarblock">
-                        <h3>Poll of the Week</h3>
-                        <div class="divline"></div>
-                        <div class="blocktxt">
-                            <p>Which game you are playing this week?</p>
-                            <form action="#" method="post" class="form">
-                                <table class="poll">
-                                    <tr>
-                                        <td>
-                                            <div class="progress">
-                                                <div class="progress-bar color1" role="progressbar" aria-valuenow="40" aria-valuemin="0" aria-valuemax="100" style="width: 90%">
-                                                    Call of Duty Ghosts
-                                                </div>
-                                            </div>
-                                        </td>
-                                        <td class="chbox">
-                                            <input id="opt1" type="radio" name="opt" value="1">
-                                            <label for="opt1"></label>
-                                        </td>
-                                    </tr>
-                                    <tr>
-                                        <td>
-                                            <div class="progress">
-                                                <div class="progress-bar color2" role="progressbar" aria-valuenow="40" aria-valuemin="0" aria-valuemax="100" style="width: 63%">
-                                                    Titanfall
-                                                </div>
-                                            </div>
-                                        </td>
-                                        <td class="chbox">
-                                            <input id="opt2" type="radio" name="opt" value="2" checked>
-                                            <label for="opt2"></label>
-                                        </td>
-                                    </tr>
-                                    <tr>
-                                        <td>
-                                            <div class="progress">
-                                                <div class="progress-bar color3" role="progressbar" aria-valuenow="40" aria-valuemin="0" aria-valuemax="100" style="width: 75%">
-                                                    Battlefield 4
-                                                </div>
-                                            </div>
-                                        </td>
-                                        <td class="chbox">
-                                            <input id="opt3" type="radio" name="opt" value="3">
-                                            <label for="opt3"></label>
-                                        </td>
-                                    </tr>
-                                </table>
-                            </form>
-                            <p class="smal">Voting ends on 19th of October</p>
-                        </div>
-                    </div>
-
-                    <!-- -->
-                    <div class="sidebarblock">
-                        <h3>My Active Threads</h3>
-                        <div class="divline"></div>
-                        <div class="blocktxt">
-                            <a href="#">This Dock Turns Your iPhone Into a Bedside Lamp</a>
-                        </div>
-                        <div class="divline"></div>
-                        <div class="blocktxt">
-                            <a href="#">Who Wins in the Battle for Power on the Internet?</a>
-                        </div>
-                        <div class="divline"></div>
-                        <div class="blocktxt">
-                            <a href="#">Sony QX10: A Funky, Overpriced Lens Camera for Your Smartphone</a>
-                        </div>
-                        <div class="divline"></div>
-                        <div class="blocktxt">
-                            <a href="#">FedEx Simplifies Shipping for Small Businesses</a>
-                        </div>
-                        <div class="divline"></div>
-                        <div class="blocktxt">
-                            <a href="#">Loud and Brave: Saudi Women Set to Protest Driving Ban</a>
-                        </div>
-                    </div>
-
-
                 </div>
             </div>
         </div>
 
 
 
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-8">
-                    <div class="pull-left"><a href="#" class="prevnext"><i class="fa fa-angle-left"></i></a></div>
-                    <div class="pull-left">
-                        <ul class="paginationforum">
-                            <li class="hidden-xs"><a href="#">1</a></li>
-                            <li class="hidden-xs"><a href="#">2</a></li>
-                            <li class="hidden-xs"><a href="#">3</a></li>
-                            <li class="hidden-xs"><a href="#">4</a></li>
-                            <li><a href="#">5</a></li>
-                            <li><a href="#">6</a></li>
-                            <li><a href="#" class="active">7</a></li>
-                            <li><a href="#">8</a></li>
-                            <li class="hidden-xs"><a href="#">9</a></li>
-                            <li class="hidden-xs"><a href="#">10</a></li>
-                            <li class="hidden-xs hidden-md"><a href="#">11</a></li>
-                            <li class="hidden-xs hidden-md"><a href="#">12</a></li>
-                            <li class="hidden-xs hidden-sm hidden-md"><a href="#">13</a></li>
-                            <li><a href="#">1586</a></li>
-                        </ul>
-                    </div>
-                    <div class="pull-left"><a href="#" class="prevnext last"><i class="fa fa-angle-right"></i></a></div>
-                    <div class="clearfix"></div>
-                </div>
-            </div>
-        </div>
-
+      
     </section>
 @endsection
 @extends('forum.layouts.footer')

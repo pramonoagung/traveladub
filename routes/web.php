@@ -28,6 +28,7 @@ Route::get('/profile', 'HomeController@profile');
 Route::get('/profile/{id}/edit', 'MasterController@editProfile');
 Route::get('/profile/{id}/edit/save', 'MasterController@updateProfile');
 Route::get('/cari', 'MasterController@cari');
+Route::get('/filter', 'MasterController@filter');
 
 
 Route::get('/', function () {

@@ -9,7 +9,7 @@
                     <div class="wrap">
                         <form action="#" method="post" class="form">
                             <div class="pull-left txt"><input type="text" class="form-control"
-                                                              placeholder="Search Topics"></div>
+                                                              placeholder="Cari Postingan"></div>
                             <div class="pull-right">
                                 <button class="btn btn-default" type="button"><i class="fa fa-search"></i></button>
                             </div>
@@ -20,7 +20,7 @@
                 <div class="col-lg-4 col-xs-12 col-sm-5 col-md-4 avt">
                     <div class="stnt pull-left">
                         <form action="/forum/new-thread" method="get" class="form">
-                            <button class="btn btn-primary">New Thread</button>
+                            <button class="btn btn-primary">Buat Postingan</button>
                         </form>
                     </div>
                     <div class="env pull-left"><i class="fa fa-envelope" style="visibility: hidden"></i></div>
